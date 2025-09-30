@@ -1,4 +1,10 @@
 #include <iostream>
+
+// Este programa define una estructura llamada 'Direccion' para almacenar información de una dirección,
+// como la calle, el número, la ciudad y el código postal. En la función principal (main), se crea una
+// variable de tipo 'Direccion', se le asignan valores y luego se muestran esos valores en pantalla.
+// Una estructura en C++ es una colección de variables bajo un mismo nombre, permitiendo agrupar datos relacionados.
+
 struct Direccion {
   std::string calle;
   int numero;
