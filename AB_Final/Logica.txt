@@ -1,0 +1,15 @@
+Clase Vehiculos (Inputs  y datos cargados, "vehiculos previamente creados")
+    objetos:
+            Informacion general (obligatoria al registrar un vehiculo)
+            Tipo de vehiculo, marca, modelo, año y kilometraje inicial
+            
+            Registro de repostajes
+            Fecha, litros cargados, precio por litro, kilometraje al momento de repostar
+            Elmsistema debe calcular el consumo medio y el coste por kilometro.
+
+            Otros gastos
+            Reparaciones, seguros, impuestos, accesorios u otros gastos, cada gasto debe incluir tipo, fecha y cantidad.
+
+Estadisticas y reportes (funciones)
+    Consumo medio total (litros/100km), gastom total acumulado, coste medio por kilometro, gasto mensual promedio, listado de todos los gastos y repostajes
+
