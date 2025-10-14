@@ -43,5 +43,7 @@
         "xtr1common": "cpp",
         "xutility": "cpp",
         "string": "cpp"
-    }
+    },
+    "cmake.sourceDirectory": "C:/Users/Pablo/OneDrive/Escritorio/Programacion/Repositorio_Cmake",
+    "cmake.ignoreCMakeListsMissing": true
 }
